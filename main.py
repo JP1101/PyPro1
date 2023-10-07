@@ -37,4 +37,4 @@ equationslist = {
 async def equations(ctx):
     await ctx.send(f"These are the equations that you can do with this bot {equationslist} ")
 
-bot.run("MTE1NjM4NTIwMTE3NDM2NDIwMQ.Gsq5c7.IX9VUqVkXMJZYAvPhOYlbUG2pOLiv_hXS8qEqs")
+bot.run("Token")
